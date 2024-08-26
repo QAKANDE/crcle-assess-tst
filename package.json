@@ -1,0 +1,26 @@
+{
+  "name": "crcle-assess-tst",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon -r dotenv/config ./src/server.js",
+    "debug": "nodemon --inspect -r dotenv/config ./src/server.js",
+    "start": "node ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@circle-fin/developer-controlled-wallets": "^4.2.1",
+    "axios": "^1.7.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
+    "node-forge": "^1.3.1",
+    "nodemon": "^3.1.4",
+    "uuid": "^10.0.0"
+  }
+}
