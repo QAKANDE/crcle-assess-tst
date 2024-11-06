@@ -6,6 +6,6 @@ const {
 } = require("../Controllers/generate.controller");
 const router = express.Router();
 
-router.post("/create-wallet", generateWalletSet, generateWallet, transferToken);
+router.post("/create-event", generateWalletSet, generateWallet, transferToken);
 
 module.exports = router;

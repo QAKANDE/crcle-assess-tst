@@ -1,0 +1,52 @@
+[
+  {
+    "user_id": "U001",
+    "name": "Adama K.",
+    "age": 29,
+    "location": "Nigeria",
+    "email": "adama.k@example.com",
+    "purchased_products": ["P001", "P002"],
+    "preferred_categories": ["Beauty & Personal Care", "Art & Decor"],
+    "membership_level": "Gold"
+  },
+  {
+    "user_id": "U002",
+    "name": "Kwame B.",
+    "age": 34,
+    "location": "Ghana",
+    "email": "kwame.b@example.com",
+    "purchased_products": ["P003"],
+    "preferred_categories": ["Clothing & Accessories", "Books"],
+    "membership_level": "Silver"
+  },
+  {
+    "user_id": "U003",
+    "name": "Zainab O.",
+    "age": 24,
+    "location": "Kenya",
+    "email": "zainab.o@example.com",
+    "purchased_products": ["P002", "P004"],
+    "preferred_categories": ["Books", "Beauty & Personal Care"],
+    "membership_level": "Platinum"
+  },
+  {
+    "user_id": "U004",
+    "name": "Musa J.",
+    "age": 40,
+    "location": "South Africa",
+    "email": "musa.j@example.com",
+    "purchased_products": ["P005"],
+    "preferred_categories": ["Musical Instruments", "Art & Decor"],
+    "membership_level": "Bronze"
+  },
+  {
+    "user_id": "U005",
+    "name": "Fatou D.",
+    "age": 27,
+    "location": "Senegal",
+    "email": "fatou.d@example.com",
+    "purchased_products": [],
+    "preferred_categories": ["Clothing & Accessories", "Art & Decor"],
+    "membership_level": "Gold"
+  }
+]

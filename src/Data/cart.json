@@ -1,0 +1,31 @@
+{
+  "cart_id": "CART12345",
+  "user_id": "U001",
+  "items": [
+    {
+      "product_id": "P001",
+      "product_name": "African Art Prints",
+      "category": "Art & Decor",
+      "quantity": 2,
+      "price": 45.0,
+      "total_price": 90.0,
+      "currency": "USD",
+      "description": "Dexcription",
+      "rating": 1
+    },
+    {
+      "product_id": "P002",
+      "product_name": "Organic Shea Butter",
+      "category": "Beauty & Personal Care",
+      "quantity": 1,
+      "price": 25.0,
+      "total_price": 25.0,
+      "currency": "USD",
+      "description": "Dexcription",
+      "rating": 1
+    }
+  ],
+  "cart_total": 115.0,
+  "currency": "USD",
+  "timestamp": 1680492800
+}

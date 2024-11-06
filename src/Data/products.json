@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "African Art Prints",
+    "category": "Art & Decor",
+    "price": 45.0,
+    "currency": "USD",
+    "available_stock": 150,
+    "description": "High-quality prints featuring traditional African art designs.",
+    "rating": 4.7
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Organic Shea Butter",
+    "category": "Beauty & Personal Care",
+    "price": 25.0,
+    "currency": "USD",
+    "available_stock": 300,
+    "description": "Natural, organic shea butter sourced directly from Ghana.",
+    "rating": 4.8
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Kente Fabric",
+    "category": "Clothing & Accessories",
+    "price": 60.0,
+    "currency": "USD",
+    "available_stock": 50,
+    "description": "Authentic Kente fabric woven in traditional Ghanaian patterns.",
+    "rating": 4.9
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Coffee Table Book - African Wildlife",
+    "category": "Books",
+    "price": 30.0,
+    "currency": "USD",
+    "available_stock": 200,
+    "description": "Beautiful coffee table book showcasing African wildlife photography.",
+    "rating": 4.5
+  },
+  {
+    "product_id": "P005",
+    "product_name": "African Drum Djembe",
+    "category": "Musical Instruments",
+    "price": 150.0,
+    "currency": "USD",
+    "available_stock": 20,
+    "description": "Handcrafted Djembe drum made from traditional African materials.",
+    "rating": 5.0
+  }
+]
